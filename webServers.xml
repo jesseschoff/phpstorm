@@ -1,0 +1,102 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7de0d72e-de6e-44f1-ac47-5b2e3c4d3b5c" name="grls.co" url="http://ftp.grls.co">
+        <fileTransfer host="ftp.grls.co" port="22" rootFolder="/home/grls/public_html" accessType="SFTP" username="grls" password="dffbdfd0dfdcdfeadfeedfc8df91dfeddfeddffadfc9df89dfcedfe9df89dffedfc8dffa">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="932009e3-7321-4692-b3d7-0a3f8c48a92b" name="jes.sc" url="http://jes.sc">
+        <fileTransfer host="ftp.jes.sc" port="22" rootFolder="/home/jes/public_html/" accessType="SFTP" username="jes" password="dfd2dfdddff2df93df9adf9fdfc8dff9dfd2dfc6df90dff6df9edfdbdfd1df91df9edffcdf9cdfe0df8edfd6df87dfcedfdcdfe1dfffdf92df96df98dfcfdfdf">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e41ea357-c43e-4a50-b139-ba32226927f8" name="4dw.co" url="http://ftp.4dw.co">
+        <fileTransfer host="ftp.4dw.co" port="21" rootFolder="/public_html" username="fourdw" password="df92df9ddf92df9ddfcbdfccdfc0dfdfdfffdf9bdf98df9adf80df8cdff3df8c">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a061796e-590b-4d75-bbbc-1d65fc88dbea" name="avantsynergy" url="http://ftp.avantsynergy.com">
+        <fileTransfer host="ftp.avantsynergy.com" port="21" rootFolder="/public_html" accessType="FTPS" username="avantsyn" password="dfccdfd8df9adfcddf9adfe7dfcbdfdedfc3dfc9df89">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ceb16de9-b9cc-4e44-bc3a-6b3678148d3f" name="particle.co" url="https://particle.co">
+        <fileTransfer host="particle.co" port="22" rootFolder="/home/particle" accessType="SFTP" username="particle" password="df9fdf9cdfd9df90dfdbdf97dfe4dfeadf81dff7dfcddf9bdfc9dfdddf97dff2dfeadff9dff9dfd9dfe3dfe2dfd2df92dfc2df9bdf9ddfecdf9bdf88df92dffd">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e91b6c29-d296-44c8-9bb7-ad908f4e14a7" name="er.pe" url="http://er.pe">
+        <fileTransfer host="ftp.er.pe" port="21" rootFolder="/public_html" accessType="FTPS" username="erpe" password="dfccdfd8df9adfcddf9adfe7dfcbdfdedfc3dfc9df89">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="13bcc120-ae98-4030-9932-a0b2ed232c42" name="ext.tria.com" url="http://tria.com">
+        <fileTransfer host="ftp.tria.com" port="21" rootFolder="/httpdocs/" username="tria" password="dfeadfe9df99dfc7dfeddf9fdfcddf9edf8e">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="54d720a2-f5ec-43c6-9d80-75618700a541" name="ainsley.co" url="http://ainsley.co">
+        <fileTransfer host="ftp.ainsley.co" port="21" rootFolder="/public_html" username="ainsley" password="dfc1dfc6df83df92df9adf9fdfffdfc2dff5dfc6dfcbdfc6df92dfd7dfc0dfd7dfe5dfdedf91dff7dfcfdfeadff3dfc5">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cb7e59f5-b54d-4b6f-8e2e-63a207003fe6" name="megadoom.net" url="http://megadoom.net">
+        <fileTransfer host="megadoom.net" port="21" rootFolder="/public_html/" accessType="FTPS" username="megadoom" password="dfccdfd8df9adfcddf9adfe7dfcbdfdedfc3dfc9df89">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a41b48a-2ff3-472f-9242-37fe4267a2af" name="ewb-mn.org" url="http://ewb-mn.particle.co">
+        <fileTransfer host="ewb-mn.particle.co" port="21" rootFolder="/public_html" username="ewbmn" password="dfe9df9bdf97dfcedffcdfcbdfebdfc2dfd7df8fdf86df8cdfd2dffcdff5df93">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f04bb24c-25b8-4430-a3ff-ce608d00be99" name="avantsynergy.maybe.is" url="http://avantsynergy.maybe.is/">
+        <fileTransfer host="particle.co" port="21" rootFolder="/public_html/" username="avant" password="dfccdfd8df9adfcddf9adfe7dfcbdfdedfc3dfc9df89">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="96fbc90d-5c38-4532-85cb-28af0cf91b60" name="massive.me" url="http://massive.me">
+        <fileTransfer host="massive.me" port="22" rootFolder="/home/massive/public_html" accessType="SFTP" username="massive" password="dfc0df97df83df96df99dfccdfe9df83dfcddff8dfd7df9fdf92df98dfd4dfcbdfd4df9adf99dff2df9adffadffcdf98dffedff3dfe6dfe2dfe3df80dfcedff2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
